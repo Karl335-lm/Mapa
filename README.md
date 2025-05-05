@@ -71,4 +71,9 @@ https://www.youtube.com/watch?v=hWe15AjwnNk
 ##Javadoc
 [javadoc.zip](https://github.com/user-attachments/files/20031937/javadoc.zip)
 
+##Créditos
+Este proyecto fue realizado como parte de un ejercicio académico para la materia de tópicos avanzados de programación, 
+por el equipo 2, integrado por:
+ Ambrosio García Emanuel Abisai
+ Martínez Bautista Karla
 
