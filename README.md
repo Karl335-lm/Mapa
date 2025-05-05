@@ -17,7 +17,7 @@ Esta es una aplicación de escritorio en Java que permite visualizar mapas, busc
   - Botones para buscar, acercar y alejar el zoom.
   - ComboBox para seleccionar el tipo de mapa.
   - El panel `mapss` que muestra el mapa.
-
+[![Captura-de-pantalla-2025-05-04-230806.png](https://i.postimg.cc/66fP7jX7/Captura-de-pantalla-2025-05-04-230806.png)](https://postimg.cc/z3376k35)
 ### `mapss.java`
 - Panel personalizado (`JPanel`) que incluye:
   - `JXMapViewer` como visor del mapa.
@@ -25,6 +25,7 @@ Esta es una aplicación de escritorio en Java que permite visualizar mapas, busc
     - Buscar lugares usando OpenStreetMap.
     - Cambiar el tipo de mapa.
     - Pintar marcadores en el mapa.
+      [![Captura-de-pantalla-2025-05-04-222729.png](https://i.postimg.cc/k5L0cB1B/Captura-de-pantalla-2025-05-04-222729.png)](https://postimg.cc/d7mNQtKY)
 ## ▶️ Instrucciones de uso
 
 1. **Requisitos:**
@@ -36,7 +37,7 @@ Esta es una aplicación de escritorio en Java que permite visualizar mapas, busc
    - Haz clic en "Buscar" para centrar el mapa en ese lugar.
    - Usa "Maximizar" o "Minimizar" para ajustar el zoom.
    - Cambia el tipo de mapa con el menú desplegable.
-
+[![Captura-de-pantalla-2025-05-04-230915.png](https://i.postimg.cc/8Pk0LRpZ/Captura-de-pantalla-2025-05-04-230915.png)](https://postimg.cc/F1qp4JJS)
 ---
 
 ## ⚙️ Dependencias
@@ -45,6 +46,7 @@ Asegúrate de incluir las siguientes librerías:
 - CONEXIÓN A INTERNET
 - [`jxmapviewer2`]
 - [`org.json`]
+  [![Captura-de-pantalla-2025-05-04-231045.png](https://i.postimg.cc/25WcCTGS/Captura-de-pantalla-2025-05-04-231045.png)](https://postimg.cc/Ff9gZywM)
   
 ##Métodos y proiedades relevantes
 Método                              / Propiedad	              Clase	Descripción
@@ -62,3 +64,11 @@ btnMinimizarActionPerformed(evt)	      PruebaMapa    	Aumenta el zoom del mapa.
 btnMaximizarActionPerformed(evt)	      PruebaMapa	    Reduce el zoom del mapa.
 
 CambioMapaActionPerformed(evt)	    PruebaMapa	Cambia el tipo de mapa según selección del usuario.
+
+##Link de Youtube
+https://www.youtube.com/watch?v=hWe15AjwnNk
+
+##Javadoc
+[javadoc.zip](https://github.com/user-attachments/files/20031937/javadoc.zip)
+
+
